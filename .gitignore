@@ -75,6 +75,7 @@ desktop.ini
 # Large data files (comment out if you want to include data in repo)
 # /data/
 # *.csv
+Crime_Data_from_2020_to_Present.csv
 # *.tsv
 # *.xlsx
 # *.xls
